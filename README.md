@@ -1,2 +1,2 @@
 # rbm-builders
-Builders- design, plan construct and remodel services
+Builders- design, plan construction and remodel home services
